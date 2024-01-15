@@ -17,7 +17,7 @@
 
 <br>
 
-[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) [![@+5492942650552](https://icons8.com/icon/16713/whatsapp)](https://wa.me/+542942650552) [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
+[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) [![@+5492942650552](<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>)](https://wa.me/+542942650552) [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+<img src="https://img.icons8.com/fluency/48/typescript--v2.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
