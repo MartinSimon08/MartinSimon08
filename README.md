@@ -17,7 +17,7 @@
 
 <br>
 
-[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) [![@+5492942650552](<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>)](https://wa.me/+542942650552) [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
+[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>)](https://wa.me/+542942650552) [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
 
 <br>
 
