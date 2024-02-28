@@ -6,7 +6,7 @@
 
 
 - 🏢 Former **Front End Developer**
-- 🎓 Studies for Software Engineering at [Universidad Tecnologica Nacional](https://www.frlp.utn.edu.ar)
+- 🎓 Studies for Sistems at [Universidad Tecnologica Nacional](https://www.frlp.utn.edu.ar)
 - 🏡'Lives in **Buenos Aires, Argentina**
 
 <br>
@@ -15,7 +15,7 @@
 
 <br>
 
-[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" href="https://wa.me/+542942650552"/>)](https://wa.me/+542942650552)] [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
+[![@martinsimon08](https://img.icons8.com/fluency/48/000000/linkedin.png "@martinsimon08")](https://linkedin.com/in/martinsimon08) [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" href="https://wa.me/+542942650552"/>](https://wa.me/+542942650552) [![@martinforlini08@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@martinforlini08@gmail.com")](martinforlini08@gmail.com)
 
 <br>
 
