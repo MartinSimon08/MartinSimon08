@@ -6,7 +6,7 @@
 
 
 - 🏢 Former **Front End Developer**
-- 🎓 Studies for Sistems at [Universidad Tecnologica Nacional](https://www.frlp.utn.edu.ar)
+- 🎓 Studies for Sistems Engineering at [Universidad Tecnologica Nacional](https://www.frlp.utn.edu.ar)
 - 🏡'Lives in **Buenos Aires, Argentina**
 
 <br>
