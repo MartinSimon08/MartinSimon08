@@ -5,7 +5,7 @@
 ## About Me :
 
 
-- 🏢 Former **Front End Developer**
+- 🏢 Former **Front End and Web Developer**
 - 🎓 Studies for Sistems Engineering at [Universidad Tecnologica Nacional](https://www.frlp.utn.edu.ar)
 - 🏡'Lives in **Buenos Aires, Argentina**
 
